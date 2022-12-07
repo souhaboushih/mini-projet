@@ -4,12 +4,12 @@
           "id": 251,
           "title": "Sonic Headphone",
           "price": "200 $",
-          //image: "product1.jpg",
+          image: "product1.jpg",
           "inventory": 82,
           "stock": true
         },
         {
-          id: 251,
+          id: 281,
           "title": "chargeur batterie",
           "price": "200 $",
           "image": "pdt-oneplustv-img-01.jpg",
