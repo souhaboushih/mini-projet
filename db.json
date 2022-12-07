@@ -6,7 +6,7 @@
           "price": "200 $",
           "image": "product1.jpg",
           "inventory": 82,
-          "stock": true
+          "stock": "true"
         },
         {
           "id": 281,
@@ -14,14 +14,14 @@
           "price": "200 $",
           "image": "pdt-oneplustv-img-01.jpg",
           "inventory": 82,
-          "stock": true
+          "stock": "true"
         },
         {
           "id": 358,
           "title": "Apple iWatch",
           "price": "380 $",
           "image": "pdt-iwatch-img-02.jpg",
-          "stock": false,
+          "stock": "false",
           "inventory": 80,
           "quantity": 200
         },
@@ -30,7 +30,7 @@
           "image": "pdt-headset-img-01.jpg",
           "title": "MI Airpod",
           "price": "230 $",
-          "stock": true,
+          "stock": "true",
           "inventory": 5,
           "quantity": 200
         },
@@ -39,7 +39,7 @@
           "image": "pdt-camera-img-02.jpg",
           "title": "Canon DSLR",
           "price": "680 $",
-          "stock": true,
+          "stock": "true",
           "inventory": -5,
           "quantity": 200
         },
@@ -48,7 +48,7 @@
           "image": "pdt-eco-bot-img-1.jpg",
           "title": "Google Eco-Bot",
           "price": "140 $",
-          "stock": true,
+          "stock": "true",
           "inventory": 500,
           "quantity": 200
         }
